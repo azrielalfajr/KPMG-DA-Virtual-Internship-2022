@@ -1,5 +1,5 @@
 # KPMG-DA-Virtual-Internship-2022
-KPMG Data Analytics Virtual Internship 2022 is project based on real datasets on a real life business problem. These experience consist 3 tasks, data quality assessment, 
+KPMG Data Analytics Virtual Internship 2022 is project based intern with real datasets and real life business problem. These experience consist 3 tasks, data quality assessment, 
 data insight, and presentation and making dashboard.
 
 #Method used
